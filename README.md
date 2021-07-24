@@ -1,2 +1,2 @@
 # ASCII_characters_table
- Simple C Program that wil print all ASCII characters
+ Simple C Program that will print all 256 ASCII characters
